@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "database": "retail_db",
+  "user": "postgres",
+  "password": "####",
+  "port": 5432
+}
